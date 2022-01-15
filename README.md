@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohannkhannaa
-- 👀 I’m interested in Competitive programming.
-- 🌱 I’m currently learning Data Structures and Algorithms.'
+- 👀 I’m interested in Competitive programming and Web Development.
+- 🌱 I’m currently learning DSA and some modern frameworks to master Web Development.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me rohankhanna190@gmail.com
 
